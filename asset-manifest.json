@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Prathamesh-Portfolio/static/css/main.2be1ea85.chunk.css",
+    "main.css": "/Prathamesh-Portfolio/static/css/main.242fdf4f.chunk.css",
     "main.js": "/Prathamesh-Portfolio/static/js/main.87313be6.chunk.js",
     "main.js.map": "/Prathamesh-Portfolio/static/js/main.87313be6.chunk.js.map",
     "runtime-main.js": "/Prathamesh-Portfolio/static/js/runtime-main.7ed65ce5.js",
@@ -11,10 +11,10 @@
     "static/js/3.9762f19f.chunk.js": "/Prathamesh-Portfolio/static/js/3.9762f19f.chunk.js",
     "static/js/3.9762f19f.chunk.js.map": "/Prathamesh-Portfolio/static/js/3.9762f19f.chunk.js.map",
     "index.html": "/Prathamesh-Portfolio/index.html",
-    "precache-manifest.f9ae984dbbc86e010670ee79cf8dc618.js": "/Prathamesh-Portfolio/precache-manifest.f9ae984dbbc86e010670ee79cf8dc618.js",
+    "precache-manifest.1ac514f91243225017ea8d9448a01cff.js": "/Prathamesh-Portfolio/precache-manifest.1ac514f91243225017ea8d9448a01cff.js",
     "service-worker.js": "/Prathamesh-Portfolio/service-worker.js",
     "static/css/2.65802816.chunk.css.map": "/Prathamesh-Portfolio/static/css/2.65802816.chunk.css.map",
-    "static/css/main.2be1ea85.chunk.css.map": "/Prathamesh-Portfolio/static/css/main.2be1ea85.chunk.css.map",
+    "static/css/main.242fdf4f.chunk.css.map": "/Prathamesh-Portfolio/static/css/main.242fdf4f.chunk.css.map",
     "static/js/2.da88064a.chunk.js.LICENSE.txt": "/Prathamesh-Portfolio/static/js/2.da88064a.chunk.js.LICENSE.txt",
     "static/media/alemik-digital.jpg": "/Prathamesh-Portfolio/static/media/alemik-digital.730354a2.jpg",
     "static/media/alemik-digital.png": "/Prathamesh-Portfolio/static/media/alemik-digital.af14a7a1.png",
@@ -44,7 +44,7 @@
     "static/js/runtime-main.7ed65ce5.js",
     "static/css/2.65802816.chunk.css",
     "static/js/2.da88064a.chunk.js",
-    "static/css/main.2be1ea85.chunk.css",
+    "static/css/main.242fdf4f.chunk.css",
     "static/js/main.87313be6.chunk.js"
   ]
 }
