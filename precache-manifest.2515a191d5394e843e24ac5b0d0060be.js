@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ae246f0f122bb4ac342010a08cf7ef7",
+    "revision": "e657b2876a58ea81f97259224bc32268",
     "url": "/Prathamesh-Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Prathamesh-Portfolio/static/css/2.65802816.chunk.css"
   },
   {
-    "revision": "0b974dde430f623bf261",
-    "url": "/Prathamesh-Portfolio/static/css/main.242fdf4f.chunk.css"
+    "revision": "ffe4cc0b51d0ffe1f9b6",
+    "url": "/Prathamesh-Portfolio/static/css/main.fe2615db.chunk.css"
   },
   {
     "revision": "06502abec84366d92617",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Prathamesh-Portfolio/static/js/3.9762f19f.chunk.js"
   },
   {
-    "revision": "0b974dde430f623bf261",
-    "url": "/Prathamesh-Portfolio/static/js/main.87313be6.chunk.js"
+    "revision": "ffe4cc0b51d0ffe1f9b6",
+    "url": "/Prathamesh-Portfolio/static/js/main.fc462f39.chunk.js"
   },
   {
     "revision": "2590cc7aec4805031049",
